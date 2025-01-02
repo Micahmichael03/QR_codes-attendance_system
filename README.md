@@ -132,6 +132,9 @@ numpy
 ## Example Output
 
 ### Real-Time QR Code Scanning
+![results 1](results_1.png)
+![results 3](results_3.png)
+![results 2](results_2.png)
 ![Figure 1](Figure_1.png)
 
 ### Static QR Code Decoding
